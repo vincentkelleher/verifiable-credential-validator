@@ -10,7 +10,7 @@ Before running this validator, you will need to install the required dependencie
 pip3 install -r requirements.txt
 ```
 
-Although it doesn't need to be installed, this application uses [DIF's UniResolver](https://dev.uniresolver.io/) to 
+Although it doesn't need to be installed, this application uses [DIF's Universal Resolver](https://dev.uniresolver.io/) to 
 resolve DID documents, a special thanks goes out to their team.
 
 ## How to use ?
